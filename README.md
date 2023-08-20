@@ -10,3 +10,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Use postman to check [http://localhost:8080](http://localhost:8080) this application backend.
+
+### `backend`
+the backend of this project can be accessed via [https://github.com/farbod-behnam/proshop-frontend](https://github.com/farbod-behnam/proshop-frontend
